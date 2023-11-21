@@ -1,0 +1,2 @@
+class UserCertificatesController < ApplicationController
+end

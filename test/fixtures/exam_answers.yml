@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  exam_submission: one
+  exam_question: one
+  content: MyText
+
+two:
+  exam_submission: two
+  exam_question: two
+  content: MyText
