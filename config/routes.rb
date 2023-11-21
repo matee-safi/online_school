@@ -9,6 +9,7 @@ Rails.application.routes.draw do
 
   resources :school_classes do
     resources :assignments
+    resources :exams
   end
 
   resources :assignments do
